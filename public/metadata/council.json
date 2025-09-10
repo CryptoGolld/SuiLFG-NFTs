@@ -1,0 +1,15 @@
+{
+  "name": "SuiLFG Council NFT",
+  "description": "The highest tier of governance NFT, reserved for major partners and key contributors to the SuiLFG protocol.",
+ "image": "https://ipfs.io/ipfs/bafybeiepd3hik7kfhmexce7gctgieaarav6azuhnn6h2lynrvymip4qpci/Council.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Council"
+    },
+    {
+      "trait_type": "Voting Power",
+      "value": "25x"
+    }
+  ]
+}
