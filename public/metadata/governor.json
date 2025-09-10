@@ -1,7 +1,6 @@
 {
   "name": "SuiLFG Governor NFT",
   "description": "A high-tier governance NFT for committed stakeholders in the SuiLFG prediction market.",
- "image": "https://ipfs.io/ipfs/bafybeiepd3hik7kfhmexce7gctgieaarav6azuhnn6h2lynrvymip4qpci/Governor.png",
   "attributes": [
     {
       "trait_type": "Tier",
@@ -13,3 +12,4 @@
     }
   ]
 }
+
