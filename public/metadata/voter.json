@@ -1,7 +1,6 @@
 {
   "name": "SuiLFG Voter NFT",
   "description": "A foundational governance NFT for the SuiLFG prediction market. Grants voting power to its holder.",
-  "image": "https://ipfs.io/ipfs/bafybeiepd3hik7kfhmexce7gctgieaarav6azuhnn6h2lynrvymip4qpci/Voter.png",
   "attributes": [
     {
       "trait_type": "Tier",
@@ -13,3 +12,4 @@
     }
   ]
 }
+
